@@ -20258,6 +20258,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Multiplayer.prototype.cnds.OnSignallingJoinedRoom,
 	cr.plugins_.TextBox.prototype.acts.SetReadOnly,
 	cr.plugins_.Arr.prototype.acts.Push,
+	cr.plugins_.Multiplayer.prototype.acts.DisconnectRoom,
 	cr.plugins_.Multiplayer.prototype.cnds.IsHost,
 	cr.system_object.prototype.acts.SetGroupActive,
 	cr.plugins_.List.prototype.acts.AddItem,
@@ -20289,7 +20290,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Multiplayer.prototype.exps.FromID,
 	cr.plugins_.Arr.prototype.exps.At,
 	cr.system_object.prototype.cnds.Every,
-	cr.plugins_.Keyboard.prototype.cnds.IsKeyDown,
-	cr.plugins_.Multiplayer.prototype.acts.DisconnectRoom
+	cr.plugins_.Keyboard.prototype.cnds.IsKeyDown
 ];};
 
