@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1559385836,
+	"version": 1559406291,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,6 +14,9 @@
 		"rockc-sheet1.png",
 		"rockd-sheet0.png",
 		"rockd-sheet1.png",
+		"explode-sheet0.png",
+		"explode-sheet1.png",
+		"explode-sheet2.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
