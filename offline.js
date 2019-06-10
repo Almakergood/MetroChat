@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1559505316,
+	"version": 1560168255,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,7 @@
 		"explode-sheet0.png",
 		"explode-sheet1.png",
 		"explode-sheet2.png",
+		"weather-sheet0.png",
 		"menu click 3.m4a",
 		"menu click 3.ogg",
 		"icon-16.png",
