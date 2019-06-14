@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Чат Метрошки",
-	"short_name": "Чат Метрошки",
+	"name": "Чат",
+	"short_name": "Чат",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
