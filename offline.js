@@ -1,11 +1,10 @@
 ﻿{
-	"version": 1560522931,
+	"version": 1560534935,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-2.1.1.min.js",
 		"offlineClient.js",
-		"weather-sheet0.png",
 		"menu click 3.m4a",
 		"menu click 3.ogg",
 		"icon-16.png",
