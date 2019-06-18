@@ -1,10 +1,11 @@
 ﻿{
-	"version": 1560800971,
+	"version": 1560850159,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-2.1.1.min.js",
 		"offlineClient.js",
+		"snapshotsprite-sheet0.png",
 		"menu click 3.m4a",
 		"menu click 3.ogg",
 		"icon-16.png",
@@ -16,6 +17,7 @@
 		"c2mp-net.js",
 		"c2mp-peer.js",
 		"c2mp.js",
-		"waker.js"
+		"waker.js",
+		"adapter.js"
 	]
 }
